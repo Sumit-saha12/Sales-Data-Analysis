@@ -1,5 +1,5 @@
 # Sales Data Analysis
-- 📊 Interactive Sales Dashboard - Analyzing Sales Data with Power Bi 📊
+## 📊 Interactive Sales Dashboard - Analyzing Sales Data with Power Bi 📊
 
 - Utilizing Pivot tables, Filters, Charts, DAX, PQE, and Data Preprocessing techniques, I uncovered crucial insights within the dataset.
 
